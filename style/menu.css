@@ -1,0 +1,20 @@
+.menu{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.menu__list{
+    display: flex;
+    list-style-type: none;
+}
+.menu__item{
+margin-left: 88px;
+
+}
+.menu__item:first-child{
+    margin-left: 0px;
+    
+    }
+.menu__link{
+color: white;
+text-decoration: none;
+}

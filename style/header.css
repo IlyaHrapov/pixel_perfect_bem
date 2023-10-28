@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 88px;
+    margin-top: -8px;
+    
+}
+.more{
+width: 20%;
+}
+.more__text{
+    font-size: 18px;
+    color: white;
+    text-transform: uppercase;
+    margin-left: 94px;
+    margin-top: 21px;
+    font-family: 'Open Sans', sans-serif;
+}
+.header__menu{
+    padding-left: 425px;
+    margin-top: 24px;
+    font-family: 'InterTight-Medium';
+}
+
+
+.background-clean{
+    background-color:#040440 ;
+}

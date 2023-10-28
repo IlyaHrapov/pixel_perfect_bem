@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'InterTight-Medium';
+	src: url('../fonts/InterTight-Medium.ttf');
+  }
+  @font-face {
+	font-family: 'InterTight-Regular';
+	src: url('../fonts/InterTight-Regular.ttf');
+  }
+  @font-face {
+	font-family: 'InterTight-Bold';
+	src: url('../fonts/InterTight-Bold.ttf');
+  }
+  @font-face {
+	font-family: 'InterTight-ExtraLight';
+	src: url('../fonts/InterTight-ExtraLight.ttf');
+  }
+  @font-face {
+	font-family: 'proximanova_regular';
+	src: url('../fonts/proximanova_regular.ttf');
+  }
+  
+  
+  
